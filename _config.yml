@@ -1,0 +1,11 @@
+minimal_mistakes_skin: "dark"
+locale: "en-UK"
+title: "Vocabularies Consortium"
+plugins"
+- jekyll-relative-links
+relative links:
+  enabled: true
+  collections: true
+include:
+  - geography_location.md
+  - geography_name.md
